@@ -1,0 +1,8 @@
+pandas
+numpy
+nltk
+pyspellchecker
+textdistance
+matplotlib
+seaborn
+jupyter
